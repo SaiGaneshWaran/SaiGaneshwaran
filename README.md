@@ -23,7 +23,7 @@
 ✔️ Experiments with new technologies  
 
 📫 **Connect with Me:**  
-[LinkedIn](your-linkedin-url) | [Portfolio](your-portfolio-url) | [Email](mailto:your-email@example.com)
+[LinkedIn](https://www.linkedin.com/in/saiganeshwaran-thillainathan-9828012b4/) | [Portfolio](https://saiganeshwaran.github.io/Portfolio_Website/) | [Email](mailto:saiganeshwaran@gmail.com)
 
 🚀 **Let’s build something amazing together!**  
 
